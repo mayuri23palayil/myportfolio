@@ -25,7 +25,7 @@ const Project = () => {
                             PrepGemini
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="prep-gemini-ten.vercel.app/">
+                                <a href="https://prep-gemini-ten.vercel.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href="https://github.com/mayuri23palayil/PrepBot">
